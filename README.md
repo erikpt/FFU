@@ -11,9 +11,11 @@ While we use this in Education at Microsoft, other industries can use it as well
 New Features
 
 **MSI Auto Installer**
+
 Automatic processing of a collection of MSI files and MST transforms
 
 **Windows Updates Installer**
+
 Automatic processing of Windows Updates via saved MSU packages
 
 **2309.2**
