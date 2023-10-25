@@ -6,6 +6,16 @@ This process will copy Windows in about 2-3 minutes to the target device, option
 While we use this in Education at Microsoft, other industries can use it as well. We esepcially see a need for something like this with partners who do re-imaging on behalf of customers. The difference in Education is that they typically have large deployments that tend to happen at the beginning of the school year and any amount of time saved is helpful. Microsoft Deployment Toolkit, Configuration Manager, and other community solutions are all great solutions, but are typically slower due to WIM deployments being file-based while FFU files are sector-based.
 
 # Updates
+**2310.1**
+
+New Features
+
+**MSI Auto Installer**
+Automatic processing of a collection of MSI files and MST transforms
+
+**Windows Updates Installer**
+Automatic processing of Windows Updates via saved MSU packages
+
 **2309.2**
 
 New Features
